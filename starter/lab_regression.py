@@ -4,7 +4,7 @@ Module 5 Week A — Lab: Regression & Evaluation
 Build and evaluate logistic and linear regression models on the
 Petra Telecom customer churn dataset.
 
-Run: python lab_regression.py
+Run: python lab _regression.py
 """
 
 import pandas as pd
